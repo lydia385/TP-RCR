@@ -11,7 +11,7 @@ public class App
     {
         a.e.println("Demonstrating reasoners:");
         
-        AbductiveExample.main(args);
-        DefaultLogicExample.main(args);
+        //AbductiveExample.main(args);
+        TDEX.EXERCISE1();
     }
 }

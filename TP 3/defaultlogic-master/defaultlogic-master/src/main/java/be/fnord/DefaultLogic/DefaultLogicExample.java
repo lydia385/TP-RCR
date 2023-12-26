@@ -659,7 +659,7 @@ public class DefaultLogicExample {
 
 		}
 	}
-
+	
 	public static void main(String[] args) {
 
 		// Turn on the removal of empty effects from print statements
